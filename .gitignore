@@ -1,0 +1,10 @@
+applet/
+.vscode/
+.pio/
+*.o
+*~
+*.orig
+*.rej
+*.bak
+*.DS_Store
+*.idea
